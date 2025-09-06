@@ -1,4 +1,4 @@
-# Hi there, I'm Rahul 👋  
+
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN & Java Enthusiast</h3>
 
@@ -21,8 +21,6 @@
 
 ---
 
-### 🌐 Portfolio  
-- 🌟 [My Portfolio](https://smartthug.github.io/Portfolio/)  
 ### ⚡ Tech Stack  
 
 <p align="center">
@@ -46,16 +44,11 @@
 
 - 💡 [Dual-Mode Intelligent Headlamp Control System](https://github.com/smartthug/HeadLamp-Control-System/tree/master)  
   *Features:* Smart headlamp adjustment (manual + sensor-based) for enhanced nighttime driving safety.  
-- 🔑 [**Login & Signup with User Authentication**](https://login-signup-puw3.onrender.com/)  
-  OTP-based email verification, forgot password reset, and **bcrypt** password encryption.  
+
 
 - 🎨 [Project Nexus](https://smartthug.github.io/project-nexus/html)  
   *Features:* Frontend project built with **HTML, CSS, and JavaScript**.  
-- 💡 [**Dual-Mode Intelligent Headlamp Control System**](https://github.com/smartthug/HeadLamp-Control-System/tree/master)  
-  Smart headlamp adjustment (manual + sensor-based) for enhanced nighttime driving safety.  
-
-- 🎨 [**Project Nexus**](https://smartthug.github.io/project-nexus/html)  
-  Frontend project built with **HTML, CSS, and JavaScript**.  
+ 
 
 ---
 
@@ -80,8 +73,7 @@
 ### 🤝 Connect with Me  
 - 📧 Email: **rahuldeva5555@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/yourusername](#)  
-📧 **rahuldeva5555@gmail.com**  
-💼 [LinkedIn](https://linkedin.com/in/yourusername)  
+
 
 ---
 
@@ -91,5 +83,4 @@
 
 ---
 
-⭐️ *“Code. Learn. Build. Repeat.”*  
 ⭐ *“Code. Learn. Build. Repeat.”*  
