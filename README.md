@@ -1,3 +1,6 @@
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&width=435&lines=Full+Stack+Developer;MERN+%7C+Java+Enthusiast;Lifelong+Learner+%26+Problem+Solver)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN & Java Enthusiast</h3>
 
@@ -54,6 +57,16 @@
 ### 🔥 Streaks & Activity  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=smartthug&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smartthug/smartthug/output/snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/smartthug/smartthug/output/snake.svg" />
+  </picture>
 </p>
 
 ---
