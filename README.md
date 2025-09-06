@@ -1,10 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN & Java Enthusiast</h3>
 
-🚀 **Full Stack Developer | MERN & Java Enthusiast**  
+
+
 💡 Passionate about building scalable apps and solving real-world problems.  
 <p align="center">
+  🚀 **Full Stack Developer | MERN & Java Enthusiast**  
   💡 Passionate about building scalable apps and solving real-world problems  
 </p>
 
@@ -54,7 +55,7 @@
 
 ### 📊 GitHub Stats  
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=smartthug&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartthug&layout=compact&theme=radical)  
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smartthug&show_icons=true&theme=tokyonight" height="165"/>
