@@ -1,20 +1,28 @@
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&width=435&lines=Full+Stack+Developer;MERN+%7C+Java+Enthusiast;Lifelong+Learner+%26+Problem+Solver)](https://git.io/typing-svg)
-
+# Hi there, I'm Rahul 👋  
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN & Java Enthusiast</h3>
 
+🚀 **Full Stack Developer | MERN & Java Enthusiast**  
+💡 Passionate about building scalable apps and solving real-world problems.  
 <p align="center">
   💡 Passionate about building scalable apps and solving real-world problems  
 </p>
 
 ---
 
+### 🔧 Tech Stack  
+- **Languages:** Java, JavaScript (ES6+), SQL  
+- **Frontend:** React.js, HTML5, CSS3  
+- **Backend:** Node.js, Express.js, Spring Boot  
+- **Database:** MySQL, MongoDB  
+- **Other:** Git, GitHub, REST APIs  
 ### 🌐 Portfolio  
 🔗 [My Portfolio](https://smartthug.github.io/Portfolio/)  
 
 ---
 
+### 🌐 Portfolio  
+- 🌟 [My Portfolio](https://smartthug.github.io/Portfolio/)  
 ### ⚡ Tech Stack  
 
 <p align="center">
@@ -33,10 +41,16 @@
 ---
 
 ### 📂 Featured Projects  
+- 🔑 [Login & Signup with User Authentication](https://login-signup-puw3.onrender.com/)  
+  *Features:* OTP-based email verification, forgot password with reset option, and password encryption using **bcrypt**.  
 
+- 💡 [Dual-Mode Intelligent Headlamp Control System](https://github.com/smartthug/HeadLamp-Control-System/tree/master)  
+  *Features:* Smart headlamp adjustment (manual + sensor-based) for enhanced nighttime driving safety.  
 - 🔑 [**Login & Signup with User Authentication**](https://login-signup-puw3.onrender.com/)  
   OTP-based email verification, forgot password reset, and **bcrypt** password encryption.  
 
+- 🎨 [Project Nexus](https://smartthug.github.io/project-nexus/html)  
+  *Features:* Frontend project built with **HTML, CSS, and JavaScript**.  
 - 💡 [**Dual-Mode Intelligent Headlamp Control System**](https://github.com/smartthug/HeadLamp-Control-System/tree/master)  
   Smart headlamp adjustment (manual + sensor-based) for enhanced nighttime driving safety.  
 
@@ -46,6 +60,8 @@
 ---
 
 ### 📊 GitHub Stats  
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=smartthug&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartthug&layout=compact&theme=radical)  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smartthug&show_icons=true&theme=tokyonight" height="165"/>
@@ -61,17 +77,9 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smartthug/smartthug/output/snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/smartthug/smartthug/output/snake.svg" />
-  </picture>
-</p>
-
----
-
 ### 🤝 Connect with Me  
+- 📧 Email: **rahuldeva5555@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/yourusername](#)  
 📧 **rahuldeva5555@gmail.com**  
 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
 
@@ -83,4 +91,5 @@
 
 ---
 
+⭐️ *“Code. Learn. Build. Repeat.”*  
 ⭐ *“Code. Learn. Build. Repeat.”*  
